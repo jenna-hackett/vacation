@@ -10,7 +10,7 @@ export default function Snacks() {
         <header>
           <h3 className="font-bold m-4">Walt Disney World</h3>
         </header>
-        <ul class="list-disc pl-5">
+        <ul className="list-disc pl-5">
           <li>Mickey Premium Ice Cream Bar — A classic fan favorite</li>
           <li>Dole Whip — Refreshing pineapple soft-serve</li>
           <li>Churros — Crispy with cinnamon sugar</li>

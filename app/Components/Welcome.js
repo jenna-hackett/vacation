@@ -32,12 +32,12 @@ export default function Welcome() {
         <img 
           src="/CinderellaCastle.jpg" 
           alt="Cinderella's castle" 
-          className="w-full md:w-1/2 h-[400px] object-cover rounded-lg shadow-md"
+          className="w-full md:w-1/2 h-100 object-cover rounded-lg shadow-md"
         />
         <img 
           src="/HogwartsCastle.jpg" 
           alt="Hogwarts castle" 
-          className="w-full md:w-1/2 h-[400px] object-cover rounded-lg shadow-md"
+          className="w-full md:w-1/2 h-100 object-cover rounded-lg shadow-md"
         />
       </section>
     </section>
